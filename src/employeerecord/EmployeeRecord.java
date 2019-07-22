@@ -7,7 +7,7 @@ package employeerecord;
 
 /**
  *
- * @author Dynamoe
+ * @author Mo'Ameen
  */
 public class EmployeeRecord {
 

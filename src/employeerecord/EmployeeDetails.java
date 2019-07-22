@@ -7,7 +7,7 @@ package employeerecord;
 import java.util.*;
 /**
  *
- * @author Dynamoe
+ * @author Mo'Ameen
  */
 public class EmployeeDetails {
     
